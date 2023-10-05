@@ -1,6 +1,6 @@
-# Alura-LayoutsResponsives
-Repo Curso Layouts Responsivos Alura - Mobile First
+# Alura-Layouts Responsive: Trabajando con layouts mobile
+Repo Curso Alura- One 
 
 # Proyecto Apeperia
-
-Archivos iniciales del proyecto para Apeperia del curso "Layouts Responsivos: Trabajando con layouts mobile", de Alura LATAM.
+* https://www.figma.com/file/l7CkASJzmTMdH09Qh7Z62V/Apeperia-Mobile-First-(inicial)-(Romy)?node-id=0%3A1&mode=dev
+  
